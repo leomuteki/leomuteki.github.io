@@ -1,6 +1,9 @@
 [Firefighter VR Training Simulator](Firefighter_VR_Training_Simulator)  
 [Terminal Twilight RPG](Terminal_Twilight)  
 [VR Flight Simulator](VR_Flight_Simulator)  
+[Other Github Repos](Repos)  
+[2D Art](2D_Art)  
+[3D Art](3D_Art)  
 
 ### Emmilio Segovia's Portfolio
 
