@@ -5,6 +5,7 @@
 [2D Art](2D_Art)  
 [3D Art](3D_Art)  
 [Photoshop Work](Photoshop)  
+[Music](https://soundcloud.com/emmilio-segovia)
 
 ### Emmilio Segovia's Portfolio
 
