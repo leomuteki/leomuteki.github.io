@@ -4,6 +4,7 @@
 [Other Github Repos](Repos)  
 [2D Art](2D_Art)  
 [3D Art](3D_Art)  
+[Photoshop Work](Photoshop)  
 
 ### Emmilio Segovia's Portfolio
 
