@@ -1,4 +1,4 @@
-[Resume](Resume.md) </br>
+[Resume](Resume.md)  
 [Firefighter VR Training Simulator](Firefighter_VR_Training_Simulator)
 
 ### Emmilio Segovia's Portfolio
