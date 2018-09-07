@@ -1,5 +1,6 @@
 ### Emmilio Segovia's Portfolio
 
+[Home](index)  
 [Firefighter VR Training Simulator](Firefighter_VR_Training_Simulator)  
 [Terminal Twilight RPG](Terminal_Twilight)  
 [VR Flight Simulator](VR_Flight_Simulator)  
