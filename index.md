@@ -1,3 +1,5 @@
+### Emmilio Segovia's Portfolio
+
 [Firefighter VR Training Simulator](Firefighter_VR_Training_Simulator)  
 [Terminal Twilight RPG](Terminal_Twilight)  
 [VR Flight Simulator](VR_Flight_Simulator)  
@@ -6,8 +8,6 @@
 [3D Art](3D_Art)  
 [Photoshop Work](Photoshop)  
 [Music](https://soundcloud.com/emmilio-segovia)
-
-### Emmilio Segovia's Portfolio
 
 <center><img src="https://image.ibb.co/i9oDAK/IMG_20180209_104033.jpg" alt="IMG_20180209_104033" border="0" width="300" height="320"></center>
 
