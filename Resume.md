@@ -7,24 +7,24 @@ title: "Resume"
 ##EDUCATION
 University of California Riverside - B.S. in Computer Science 	                                                          December 2018
                            
-##TECHNICAL SKILLS
-#Languages
-C, C++, C#, HLSL, Java, Python, Postgres SQL, JavaScript, HTML, CSS
-#Hardware
-Atmega 1284p microcontroller, Oculus Rift and HTC Vive development
-#Software
-Visual Studio, Linux terminal, VIM, Atmel Studio
-#Unity game engine, Unreal game engine
-Autodesk Maya 3D animation, Adobe Photoshop, Adobe Illustrator
+##TECHNICAL SKILLS  
+#Languages    
+C, C++, C#, HLSL, Java, Python, Postgres SQL, JavaScript, HTML, CSS  
+#Hardware  
+Atmega 1284p microcontroller, Oculus Rift and HTC Vive development  
+#Software  
+Visual Studio, Linux terminal, VIM, Atmel Studio  
+#Unity game engine, Unreal game engine  
+Autodesk Maya 3D animation, Adobe Photoshop, Adobe Illustrator  
 
-##SPOKEN LANGUAGES
-Spanish, conversational Japanese
+##SPOKEN LANGUAGES  
+Spanish, conversational Japanese  
 
-##WORK EXPERIENCE
-#University of California Riverside, Riverside, CA	                                                         January 2017 to June 2018
-Computer Science Supplemental Instructor
-*Taught computer science to groups of 20-30 first/second year UCR students
-*Prepared material, led discussion, and messaged students outside discussion to ensure their success
+##WORK EXPERIENCE  
+#University of California Riverside, Riverside, CA	                                                           January 2017 to June 2018
+Computer Science Supplemental Instructor  
+*Taught computer science to groups of 20-30 first/second year UCR students  
+*Prepared material, led discussion, and messaged students outside discussion to ensure their success  
 
 #Mount San Antonio College, Walnut, CA			                                            August 2015 to July 2016
 Math Supplemental Instructor
