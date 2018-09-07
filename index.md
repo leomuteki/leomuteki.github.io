@@ -1,5 +1,5 @@
-*[Resume](/FIrefighter_VR_Training_Simulator)
-*[Firefighter VR Training Simulator](FIrefighter_VR_Training_Simulator.md)
+[Resume](/FIrefighter_VR_Training_Simulator)
+[Firefighter VR Training Simulator](FIrefighter_VR_Training_Simulator)
 
 ### Emmilio Segovia's Portfolio
 
