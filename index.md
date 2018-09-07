@@ -1,4 +1,6 @@
-hi|### Emmilio Segovia's Portfolio
+[Resume](/FIrefighter_VR_Training_Simulator)
+
+### Emmilio Segovia's Portfolio
 
 <center><img src="https://image.ibb.co/i9oDAK/IMG_20180209_104033.jpg" alt="IMG_20180209_104033" border="0" width="300" height="320"></center>
 
