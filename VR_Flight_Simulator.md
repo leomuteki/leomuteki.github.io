@@ -11,6 +11,7 @@
 [Photoshop Work](Photoshop)  
 [Music](https://soundcloud.com/emmilio-segovia)  
 
-[Github Link](https://github.com/leomuteki/VR_Flight_Simulator)  
+Github Repo Link:  
+[Link](https://github.com/leomuteki/VR_Flight_Simulator)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oDDGeAB69bk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
