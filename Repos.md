@@ -1,7 +1,3 @@
----
-layout: post
-title: "Other Project Github Repos"
----
 ###Other Project Github Repos
 
 [Project Raven](https://github.com/nadnbuds/Raven)  
