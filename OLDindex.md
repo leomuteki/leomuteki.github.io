@@ -4,7 +4,7 @@
 [Firefighter VR Training Simulator](Firefighter_VR_Training_Simulator)  
 [Terminal Twilight RPG](Terminal_Twilight)  
 [VR Flight Simulator](VR_Flight_Simulator)  
-[Other Github Repos](Repos)  
+[Github Repos](Repos)  
 [Relevant Programming Projects](https://drive.google.com/drive/folders/1ZfwscnzCIhnjWtgmSzBCttytqjbAom2w?usp=sharing)  
 [2D Art](2D_Art)  
 [3D Art](3D_Art)  
