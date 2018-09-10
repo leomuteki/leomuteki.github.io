@@ -35,9 +35,9 @@ links:
   - title: 2D Art
     url: /2D_Art
   - title: 3D Art
-    url: 3D_Art
+    url: /3D_Art
   - title: Photoshop Work
-    url: Photoshop
+    url: /Photoshop
   - title: Music
     url: https://soundcloud.com/emmilio-segovia
     external: true
