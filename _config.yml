@@ -5,16 +5,16 @@ canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Emmilio Segovia
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            "AR & VR Developer""
+  email:          emmilioestates@gmail.com
+  #twitter:        twnsndco
+  github:         leomuteki
+  #instagram:      ctrunsthis
+  #dribbble:       coletownsend
+  #disqus:         balzac
+  location:       "Covina, CA"
   # Plug in your disqus shortname!
 
 tools:
@@ -28,17 +28,22 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: Resume
+    url: /Resume
+  - title: Projects
+    url: /Projects
+  - title: 2D Art
+    url: /2D_Art
+  - title: 3D Art
+    url: 3D_Art
+  - title: Photoshop Work
+    url: Photoshop
+  - title: Music
+    url: https://soundcloud.com/emmilio-segovia
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -64,4 +69,4 @@ sass:
 permalink:   /:categories/:title
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+exclude: ["flib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
