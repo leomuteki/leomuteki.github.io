@@ -4,17 +4,6 @@ title: "Photoshop Work"
 ---
 ### Photoshop Work
 
-[Home](index)  
-[Firefighter VR Training Simulator](Firefighter_VR_Training_Simulator)  
-[Terminal Twilight RPG](Terminal_Twilight)  
-[VR Flight Simulator](VR_Flight_Simulator)  
-[Other Github Repos](Repos)  
-[Relevant Programming Projects](https://drive.google.com/drive/folders/1ZfwscnzCIhnjWtgmSzBCttytqjbAom2w?usp=sharing)  
-[2D Art](2D_Art)  
-[3D Art](3D_Art)  
-[Photoshop Work](Photoshop)  
-[Music](https://soundcloud.com/emmilio-segovia)
-
 <img src="https://image.ibb.co/hzRvqK/Alma_Rosa_Nieto.jpg" alt="Alma_Rosa_Nieto" border="0" height="400">
 
 <img src="https://image.ibb.co/hQHJAK/bartender_card2.jpg" alt="bartender_card2" border="0" height="400">
