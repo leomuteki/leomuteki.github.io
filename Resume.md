@@ -6,11 +6,11 @@ title: "Resume"
 * University of California Riverside - B.S. in Computer Science 	                                                          December 2018
                            
 #### TECHNICAL SKILLS  
-##### Languages    
+**Languages**
 * C, C++, C#, HLSL, Java, Python, Postgres SQL, JavaScript, HTML, CSS  
-##### Hardware  
+**ardware**  
 * Atmega 1284p microcontroller, Oculus Rift and HTC Vive development  
-##### Software  
+**Software**
 * Visual Studio, Linux terminal, VIM, Atmel Studio  
 * Unity game engine, Unreal game engine  
 * Autodesk Maya 3D animation, Adobe Photoshop, Adobe Illustrator  
