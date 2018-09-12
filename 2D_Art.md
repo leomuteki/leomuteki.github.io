@@ -2,8 +2,6 @@
 layout: post
 title: "2D Art"
 ---
-### 2D Art
-
 <img src="https://image.ibb.co/iOLUZe/initiative.png" alt="initiative" border="0" height="400">
 
 <img src="https://image.ibb.co/j0eJcz/Ella_Concept_1.jpg" alt="Ella_Concept_1" border="0" height="400">
