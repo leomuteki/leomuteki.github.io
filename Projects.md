@@ -1,9 +1,8 @@
 
-
-
-
-## Firefighter VR Training Simulator
-
+---
+layout: page
+title: "Projects"
+---
 Github Repo Link:
 [Github Links](https://github.com/leomuteki/FireFighterProject)
 
