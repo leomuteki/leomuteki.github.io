@@ -18,4 +18,4 @@ title: "3D Art"
 
 <img src="https://image.ibb.co/eygEHz/Planet_of_Destruction.jpg" alt="Planet_of_Destruction" border="0" height="400">
 
-<img src="https://image.ibb.co/ekaicz/Scary_Marionette.jpg" alt="Scary_Marionette" border="0"> height="400">
+<img src="https://image.ibb.co/ekaicz/Scary_Marionette.jpg" alt="Scary_Marionette" border="0" height="400">
