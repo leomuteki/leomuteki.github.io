@@ -1,9 +1,7 @@
-
 ---
 layout: post
 title: "Projects"
 ---
-
 Github Repo Link:
 [Github Links](https://github.com/leomuteki/FireFighterProject)
 
