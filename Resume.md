@@ -2,12 +2,10 @@
 layout: post
 title: "Resume"
 ---
-### Resume
-
 ## EDUCATION
 University of California Riverside - B.S. in Computer Science 	                                                          December 2018
                            
-## TECHNICAL SKILLS  
+### TECHNICAL SKILLS  
 #Languages    
 C, C++, C#, HLSL, Java, Python, Postgres SQL, JavaScript, HTML, CSS  
 # Hardware  
