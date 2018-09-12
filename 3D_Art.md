@@ -2,8 +2,6 @@
 layout: post
 title: "3D Art"
 ---
-### 3D Art
-
 <img src="https://image.ibb.co/dnNFPe/Ella_1.jpg" alt="Ella_1" border="0" height="400">
 
 <img src="https://image.ibb.co/c0Y0qK/Ella_2.jpg" alt="Ella_2" border="0" height="400">
