@@ -8,8 +8,9 @@ title: "Resume"
 #### TECHNICAL SKILLS  
 **Languages**
 * C, C++, C#, HLSL, Java, Python, Postgres SQL, JavaScript, HTML, CSS  
-**ardware**  
+**Hardware**  
 * Atmega 1284p microcontroller, Oculus Rift and HTC Vive development  
+
 **Software**
 * Visual Studio, Linux terminal, VIM, Atmel Studio  
 * Unity game engine, Unreal game engine  
