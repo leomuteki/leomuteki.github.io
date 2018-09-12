@@ -1,6 +1,6 @@
 
 ---
-layout: page
+layout: post
 title: "Projects"
 ---
 Github Repo Link:
