@@ -51,6 +51,7 @@ I worked on status bars and inventory and weapon functionality
 Calendar App (some HTML, events.js: function: matchSchedules)
 
 [Napse ("Transistor")](https://github.com/nadnbuds/Transistor)
+I make the level, worked on 3D models, and UI art and functionality.
 
 [Resonance](https://github.com/jhsie007/Resonance)
 I made character controls and music
