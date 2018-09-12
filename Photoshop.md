@@ -2,8 +2,6 @@
 layout: post
 title: "Photoshop Work"
 ---
-### Photoshop Work
-
 <img src="https://image.ibb.co/hzRvqK/Alma_Rosa_Nieto.jpg" alt="Alma_Rosa_Nieto" border="0" height="400">
 
 <img src="https://image.ibb.co/hQHJAK/bartender_card2.jpg" alt="bartender_card2" border="0" height="400">
