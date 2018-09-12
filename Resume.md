@@ -2,7 +2,7 @@
 layout: post
 title: "Resume"
 ---
-## EDUCATION
+#### EDUCATION
 University of California Riverside - B.S. in Computer Science 	                                                          December 2018
                            
 ### TECHNICAL SKILLS  
