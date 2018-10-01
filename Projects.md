@@ -29,6 +29,10 @@ Terminal Twilight RPG (I made almost all the programming except BattleManager.cs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oDDGeAB69bk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+## Glove Controller
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BCeuwnJTl6Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Other Github Project Links
 
 [Project Raven](https://github.com/nadnbuds/Raven)
