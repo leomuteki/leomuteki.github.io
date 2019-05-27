@@ -28,8 +28,6 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Resume
-    url: /Resume
   - title: Projects
     url: /Projects
   - title: 2D Art
