@@ -14,8 +14,8 @@ title: "2D Art"
 
 <img src="https://image.ibb.co/dNrEHz/Acrylic_Painting_2.jpg" alt="Acrylic_Painting_2" border="0" height="400">
 
-<img src="https://lh3.googleusercontent.com/nwDtPUg9DoE5WKyNW9u43oVBGpoAeGV-MxGtKcFQvtieGlf8rx8jpL0sCaT9Pjk4r9iQyd6zlWoaembjkgwy5VjSRxyrqoK_2NOaT0Y5oswTCYJJQpAafODHO8MoiJeKnfhjvIxgGA=w2400" border="0" height="400">
+<img src="https://lh3.googleusercontent.com/nwDtPUg9DoE5WKyNW9u43oVBGpoAeGV-MxGtKcFQvtieGlf8rx8jpL0sCaT9Pjk4r9iQyd6zlWoaembjkgwy5VjSRxyrqoK_2NOaT0Y5oswTCYJJQpAafODHO8MoiJeKnfhjvIxgGA=w2400" alt="Picture 1" border="0" height="400">
 
-<img src="https://lh3.googleusercontent.com/7zSBquus6psGkSLKbg5HHCn7m-F_AI7yB1VtnZQ-TJSvvwNS4bud1FG53nWwMHVL0MdlZ3uRUsTpZYgDZax-aquHKa1a_956JL1yxrFsdrGIGX5xew6r56zHjELvV_BR2VJHDsnp6A=w2400" border="0" height="400">
+<img src="https://lh3.googleusercontent.com/7zSBquus6psGkSLKbg5HHCn7m-F_AI7yB1VtnZQ-TJSvvwNS4bud1FG53nWwMHVL0MdlZ3uRUsTpZYgDZax-aquHKa1a_956JL1yxrFsdrGIGX5xew6r56zHjELvV_BR2VJHDsnp6A=w2400" alt="Picture 2" border="0" height="400">
 
 <img src="https://image.ibb.co/gURs4e/Kabo_Enemy_Concept.png" alt="Kabo_Enemy_Concept" border="0" height="400">
