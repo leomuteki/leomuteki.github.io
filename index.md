@@ -2,7 +2,7 @@
 layout: page
 title: "Recent Posts"
 tags: [Jekyll, theme, responsive, blog, template]
-image: feature: typewriter.jpg
+image:
 ---
 ### Emilio Segovia's Portfolio
   
