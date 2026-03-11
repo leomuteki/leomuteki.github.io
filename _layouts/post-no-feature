@@ -3,10 +3,10 @@
 <section class="article">
 
 {% if page.image.feature %}
-  <div class="overlay"></div>
+
   <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})"></div>
 {% else %}
-  <div class="overlay"></div>
+
   <div class="featured-image" style="background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);"></div>
 {% endif %}
 
