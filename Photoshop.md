@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop Work"
+title: "Graphic Design"
 ---
 <img src="https://image.ibb.co/hzRvqK/Alma_Rosa_Nieto.jpg" alt="Alma_Rosa_Nieto" border="0" height="400">
 
