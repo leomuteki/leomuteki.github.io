@@ -18,7 +18,7 @@ email: leomuteki@gmail.com | [LinkedIn](https://www.linkedin.com/in/emilio-segov
 
 ### Work Experience
 
-**Software QA & Test Automation Engineer / Release Manager** (Mar 2025 – Present)
+**Software QA & Test Automation Engineer / Release Manager** (Mar 2025 – Present)<br>
 *Field AI | Irvine, California*
 - Own monthly software release cycles, tracking, prioritizing, and validating bugs in Jira for high-quality releases.
 - Coordinate with autonomy engineers to drive rapid bug resolution and ensure fixes are applied to current and previously supported release versions.
@@ -33,7 +33,7 @@ email: leomuteki@gmail.com | [LinkedIn](https://www.linkedin.com/in/emilio-segov
 - Develop live system and mission health monitoring using Prometheus and Grafana, maintaining dashboards and generating reports with time-series visualizations.
 - Analyze mission performance metrics (distance traveled, duration, frequency of human interventions) to quantify system reliability.
 
-**Senior Software Engineer** (May 2023 – Mar 2025)
+**Senior Software Engineer** (May 2023 – Mar 2025)<br>
 *Disruptive Technology Associates, Ltd. | United States / Phoenix, Arizona*
 - Automated aerospace testing workflows by developing Python scripts in a distributed AWS environment, improving testing efficiency and scalability.
 - Designed and deployed a data visualization web app integrating Python Dash and Plotly for dynamic and interactive visual analytics.
@@ -43,13 +43,13 @@ email: leomuteki@gmail.com | [LinkedIn](https://www.linkedin.com/in/emilio-segov
 - Streamlined ETL pipelines by extracting and processing issue and test data from REST APIs, including JIRA, in .csv and JSON formats.
 - Engineered high-performance routing software in C/C++ supporting IPv4, IPv6, and MPLS at speeds of 10 Gbps.
 
-**Software Engineer and Scrum Master** (Nov 2019 – May 2023)
+**Software Engineer and Scrum Master** (Nov 2019 – May 2023)<br>
 *Northrop Grumman | United States*
 - Shipped code for aerospace vehicles by participating in requirements development, software design, and rigorous software/system-level test development.
 - Worked with a system of ethernet-connected real-time embedded devices with synchronized dual-channel data traffic for redundancy.
 - Developed MATLAB simulations of aircraft devices for automated integration testing across multiple device sims.
 
-**Educational Application Developer** (Oct 2018 – Nov 2019)
+**Educational Application Developer** (Oct 2018 – Nov 2019)<br>
 *Western University of Health Sciences | Pomona, CA*
 - Developed android/iOS/WebGL apps to gamify the medical school curriculum.
 - Innovated with AR/VR and facial recognition to enhance the learning experience of students.
