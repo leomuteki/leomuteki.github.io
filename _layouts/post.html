@@ -1,18 +1,6 @@
-{% include head.html %}
+{% include head-dark.html %}
 
-<section class="article">
-
-{% if page.image.feature %}
-
-  {% if page.image.feature contains 'https://' | escape or page.image.feature contains 'http://' | escape %}
-  <div class="featured-image" style="background-image: url({{ page.image.feature }})"></div>
-  {% else %}
-  <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})"></div>
-  {% endif %}
-{% else %}
-
-  <div class="featured-image" style="background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);"></div>
-{% endif %}
+<section class="article pad-top">
 
 
       <article class="wrap post">
