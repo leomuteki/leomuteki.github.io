@@ -11,7 +11,7 @@ image:
 <br/>
 Software QA and test automation engineer with experience owning release management, CI/CD, and simulation-driven testing, plus deep system debugging across distributed systems and infrastructure, and a background in maintaining and migrating large production software platforms.
 
-#### Contact:
+### Contact:
 email: leomuteki@gmail.com | [LinkedIn](https://www.linkedin.com/in/emilio-segovia-199551a0/)
 
 ---
