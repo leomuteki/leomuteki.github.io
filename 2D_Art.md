@@ -2,6 +2,8 @@
 layout: post
 title: "2D Art"
 ---
+Initiative Calculator was published to Play Store by me but has since been removed.
+
 <img src="https://image.ibb.co/iOLUZe/initiative.png" alt="initiative" border="0" height="400">
 
 <img src="https://image.ibb.co/j0eJcz/Ella_Concept_1.jpg" alt="Ella_Concept_1" border="0" height="400">
